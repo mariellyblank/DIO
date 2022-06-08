@@ -1,5 +1,5 @@
 # DIO
-Repositório criado para o Desafio de projeto.
+Repositório criado para projetos DIO.
 ###### Work in progress...
 
 ## _Links Úteis_
